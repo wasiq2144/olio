@@ -2,7 +2,7 @@ import React from 'react'
 
 const BigHeading = ({text}) => {
   return (
-    <h2 className='text-[130px] text-center font-bold leading-none'>{text}</h2>
+    <h2 className='text-[130px] text-center my-[60px] font-bold leading-none'>{text}</h2>
   )
 }
 

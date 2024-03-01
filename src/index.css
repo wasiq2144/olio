@@ -6,9 +6,11 @@
 
 *{
   font-family: "Inter", sans-serif;
+  
 }
 
 body {
   background-color: #1a1a1a;
   color: #fff;
+  margin: 0px 20px;
 }
